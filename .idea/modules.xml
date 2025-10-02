@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjects/MyProjects.iml" filepath="$PROJECT_DIR$/MyProjects/MyProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-java-dsa-journey.iml" filepath="$PROJECT_DIR$/.idea/my-java-dsa-journey.iml" />
+    </modules>
+  </component>
+</project>
