@@ -27,5 +27,6 @@ public class UsernameValidator {
         System.out.println(isValidUsername("jo hn"));     // false
         System.out.println(isValidUsername("john12!"));   // false
 
+
     }
 }
